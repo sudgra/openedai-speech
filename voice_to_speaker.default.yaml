@@ -52,7 +52,7 @@ tts-1-hd:
     enable_text_splitting: True
     length_penalty: 1.0
     repetition_penalty: 10
-    speed: 1.0
+    speed: 0.5
     temperature: 0.75
     top_k: 50
     top_p: 0.85
